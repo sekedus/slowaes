@@ -3,3 +3,4 @@ js/aes.js -text
 python/aes.py -text
 tests/README -text
 tests/smoketest.py -text
+tests/smutil.py -text
