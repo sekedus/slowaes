@@ -1,3 +1,4 @@
 * text=auto !eol
 js/aes.js -text
 python/aes.py -text
+tests/README -text
