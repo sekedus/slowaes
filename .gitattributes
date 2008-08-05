@@ -2,5 +2,7 @@
 js/aes.js -text
 python/aes.py -text
 tests/README -text
-tests/smoketest.py -text
+tests/compare_pj.py -text
+tests/pyutil.py -text
+tests/smoketest_js.py -text
 tests/smutil.py -text
