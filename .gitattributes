@@ -1,5 +1,7 @@
 * text=auto !eol
 js/aes.js -text
+js/cryptoHelpers.js -text
+js/jsHash.js -text
 python/aes.py -text
 tests/README -text
 tests/compare_pj.py -text
