@@ -7,4 +7,5 @@ tests/README -text
 tests/compare_pj.py -text
 tests/pyutil.py -text
 tests/smoketest_js.py -text
+tests/smoketest_py.py -text
 tests/smutil.py -text
