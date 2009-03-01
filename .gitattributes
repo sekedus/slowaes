@@ -2,6 +2,9 @@
 js/aes.js -text
 js/cryptoHelpers.js -text
 js/jsHash.js -text
+php/aes_fast.php -text
+php/aes_small.php -text
+php/cryptoHelpers.php -text
 python/aes.py -text
 ruby/COPYING -text
 ruby/README.markdown -text
