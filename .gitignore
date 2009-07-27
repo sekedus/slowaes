@@ -1,0 +1,4 @@
+/*.pyc
+python/*.pyc
+tests/*.pyc
+tests/.*.swp
