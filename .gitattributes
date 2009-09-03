@@ -6,6 +6,7 @@ php/aes_fast.php -text
 php/aes_small.php -text
 php/cryptoHelpers.php -text
 python/aes.py -text
+python/setup.py -text
 ruby/COPYING -text
 ruby/README.markdown -text
 ruby/Rakefile -text
